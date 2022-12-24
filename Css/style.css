@@ -1,0 +1,31 @@
+body{
+    background-color:whitesmoke;
+    padding: 20px;
+}
+#div1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:lawngreen;
+}
+.H2{
+    vertical-align: baseline;
+    font-size: 10;
+    color: lightgreen;
+}
+ul{
+    color: black;
+    margin: 1.5em;
+    font: optional;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    margin-top:15px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+span{
+    color: blue;
+}
